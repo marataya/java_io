@@ -1,0 +1,7 @@
+-nbproject
+--build-impl.xml
+--genfiles.properties
+--private
+---private.properties
+--project.properties
+--project.xml
